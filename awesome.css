@@ -1,0 +1,34 @@
+html, body {
+  width: 100%;
+  height: 100vh;
+  min-height: 100%;
+  color: #fff;
+}
+
+.imagebox {
+  background-image: url("http://www.pealinn.ee/content/news/large/22/72/227241.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100%;
+  width: 50%;
+}
+
+.textbox {
+  background-color: #342C61;
+  width: 50%;
+  height: 100%;
+  border-left: 7px solid #50BFD3;
+}
+
+.messagebox {
+  background-color: #9092AD;
+  border-radius: 3px;
+}
+.msg-transparent {
+  opacity: 0.8;
+}
+
+.fab {
+  background-color: #E50D7F;
+  border-radius: 3px;
+}
